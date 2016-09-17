@@ -1,0 +1,42 @@
+<!--  Johns Hopkins University
+      Whiting School of Engineering
+      Department of Computer Science
+      Ruby on Rails Development.
+      https://ep.jhu.edu/programs-and-courses/coursera
+      Platform: Coursera
+      Instructor: Yaakov Chaikin
+      Student:    Joseph M Mwania
+-->
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Lunch Checker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles/bootstrap.min.css">
+    <style>
+      .message { font-size: 1.3em; font-weight: bold; }
+    </style>
+  </head>
+<body ng-app='LunchCheck'>
+   <div class="container" ng-controller='LunchCheckController'>
+     <h1>Lunch Checker</h1>
+
+         <div class="form-group">
+             <input id="lunch-menu" type="text"
+             placeholder="list comma separated dishes you usually have for lunch"
+             class="form-control" ng-model="items" ng-style="inputstyle">
+         </div>
+         <div class="form-group">
+             <button ng-click="checkLunch()" class="btn btn-default">Check If Too Much</button>
+         </div>
+         <div class="form-group message" ng-style="outputstyle">
+           <!-- Your message can go here. -->
+           {{results}}
+         </div>
+   </div>
+
+   <script src="angular.min.js"></script>
+   <script src="app.js"></script> 
+</body>
+</html>
