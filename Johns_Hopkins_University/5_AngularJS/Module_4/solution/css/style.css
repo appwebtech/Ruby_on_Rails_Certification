@@ -1,0 +1,32 @@
+#categoryTable td:hover{
+	/* display: inline-block; */
+	cursor: pointer;
+	/* border: solid black 1px; */
+	color: lightseagreen;
+	padding: 2px;
+	/* border-radius: 3px; */
+}
+
+#categoryTable {
+	margin-left: 6%;
+	text-align: center;
+}
+
+#categoryTable td{
+	border: 1px solid gray;
+	border-radius: 2px;
+}
+
+#itemTable {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#itemTable td,th{
+	border: 1px solid gray;
+	padding: 10px;
+}
+
+#itemTable th {
+	background-color: lightcyan;
+}

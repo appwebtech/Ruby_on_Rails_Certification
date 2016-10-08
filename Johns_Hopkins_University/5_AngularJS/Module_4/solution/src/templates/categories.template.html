@@ -1,0 +1,15 @@
+<a ui-sref="home">&lt;Back to Home</a>
+<br>
+<br>
+<div style="text-align: center;" width="100%">
+
+	<table id="categoryTable">
+		<tr ng-repeat="category in categoriesCtrl.categories" ui-sref="items({shortName: category.short_name})">
+			<td>
+				{{category.name}}
+				({{category.short_name}})
+			</td>
+		</tr>
+	</table>
+
+</div>

@@ -1,0 +1,13 @@
+<a ui-sref="categories">&lt;Back to Categories</a>
+<br>
+<br>
+<table id="itemTable">
+	<tr>
+		<th>Name</th>
+		<th>Description</th>
+	</tr>
+	<tr ng-repeat="item in itemCtrl.items">
+		<td>{{item.name}}</td>
+		<td>{{item.description}}</td>
+	</tr>
+</table>
