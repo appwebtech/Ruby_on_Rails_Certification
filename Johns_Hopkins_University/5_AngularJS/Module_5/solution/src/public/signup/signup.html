@@ -1,0 +1,64 @@
+<div class="col-md-offset-4">
+    <fieldset>
+        <form name='signupForm' novalidate>
+            <input type="text" name="firstname" placeholder="First name"
+                   ng-model="$ctrl.subscriber.firstname"
+                   pattern="[a-zA-Z ]+"
+                   class="text-success"
+                   required>
+            <span
+                    ng-if="signupForm.firstname.$invalid && signupForm.firstname.$touched">
+                First name must be provided!
+            </span>
+            <br>
+            <input type="text" name="lastname" placeholder="Last name"
+                   ng-model="$ctrl.subscriber.lastname"
+                   pattern="[a-zA-Z ]+"
+                   class="text-success"
+                   required>
+            <span ng-if="signupForm.lastname.$invalid && signupForm.lastname.$touched">
+                Last name must be provided!
+            </span>
+            <br>
+            <input type="email" name="email" placeholder="Email"
+                   ng-model="$ctrl.subscriber.email"
+                   class="text-success"
+
+                   required>
+            <span ng-if="signupForm.email.$invalid && signupForm.email.$touched">
+                Must be a valid email address: handle@domain format
+            </span>
+            <br>
+
+            <input type="text" name="phone" placeholder="Phone ###-###-####"
+                   ng-model="$ctrl.subscriber.phone"
+                   pattern="(\d{3})-(\d{3})-(\d{4})"
+                   class="text-success"
+
+                   required>
+            <span ng-if="signupForm.phone.$invalid && signupForm.phone.$touched">
+                Phone must be in the format ###-###-####.
+            </span>
+            <br>
+            <input type="text" name="short_name" placeholder="Favorite Short name"
+                   class="text-success"
+
+                   ng-model="$ctrl.subscriber.short_name" required>
+            <span ng-if="$ctrl.error">
+                No such menu number exists
+            </span>
+            <span ng-if="$ctrl.success">
+                Your information has been saved.
+            </span>
+            <br>
+            <button
+                    ng-disabled="signupForm.$invalid"
+                    ng-click="$ctrl.submit()">Submit
+            </button>
+
+            <div style="margin-top: 10px;">
+                Form valid? {{ signupForm.$valid }}
+            </div>
+        </form>
+    </fieldset>
+</div>

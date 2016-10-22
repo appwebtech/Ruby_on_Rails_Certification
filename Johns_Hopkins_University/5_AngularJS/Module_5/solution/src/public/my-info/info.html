@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="col-md-offset-4">
+        <span ng-hide="$ctrl.info">Not Signed Up Yet.<a ui-sref="public.signup"> Sign up Now!</a></span>
+        <div ng-if="$ctrl.info">
+            First Name: {{$ctrl.info.firstname}} <br>
+            Last Name: {{$ctrl.info.lastname}} <br>
+            Email: {{$ctrl.info.email}} <br>
+            Phone: {{$ctrl.info.phone}} <br>
+            <menu-item menu-item="$ctrl.info.favorite"></menu-item>
+        </div>
+    </div>
+</div>
