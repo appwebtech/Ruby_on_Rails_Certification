@@ -79,7 +79,7 @@ Integrating MongoDB and Rails
 
 ### WEEK 3
 
-###Mongoid
+### Mongoid
 
 #### Introduction to Mongoid
 

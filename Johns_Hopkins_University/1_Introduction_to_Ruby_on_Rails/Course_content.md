@@ -9,7 +9,7 @@
 
 ### WEEK 1
 
-Installing Software
+#### Installing Software
 
   * Course Introduction.
   * Setting Up the Development Environment.
