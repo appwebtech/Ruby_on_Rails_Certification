@@ -29,7 +29,15 @@
   - [Components, Events, Modules, and Routing](#Components, Events, Modules, and Routing)
   - [Form Validation, Testing, and Restaurant Site Development](#Form Validation, Testing, and Restaurant Site Development)
 - [Capstone Project](#Capstone Project)
-- [Certifications](#Certifications)
+- [Certificates](#Certifications)
+  - [Introduction to Ruby on Rails]()
+  - [Rails with Active Record and Action Pack]()
+  - [Ruby on Rails Web Services and Integration with MongoDB]()
+  - [HTML, CSS, and Javascript for Web Developers]()
+  - [Single Page Web Applications with AngularJS]()
+  - [Capstone Project]()
+  - [Specialization Overal Certificate]()
+
 
 
 ### WEEK 1
