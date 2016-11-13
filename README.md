@@ -1,66 +1,77 @@
 
-# Ruby on Rails Specialization 
+<h1 align="center">Ruby on Rails Specialization</h1>
 
-# Johns Hopkins University.  
-# [Whiting School of Engineering](https://ep.jhu.edu/programs-and-courses/coursera) via [Coursera](https://www.coursera.org/specializations/ruby-on-rails) 
+<div align="center">
+ <h1>Johns Hopkins University </h1> 
+<h2>Whiting School of Engineering <i> (via Coursera)</i></h2> 
+</div>
+<div align="center">
+  <h3>
+    <a href="https://yoshuawuyts.gitbooks.io/choo/content">
+      Course 1
+    </a>
+    <span> | </span>
+      <a href="#">
+        Course 2
+      </a>
+    <span> | </span>
+      <a href="#">
+        Course 3
+      </a>
+    <span> | </span>
+    <a href="#">
+      Course 4
+    </a>
+    <span> | </span>
+    <a href="#">
+      Course 5
+    </a>
+  <span> | </span>
+    <a href="#">
+      Capstone Project
+    </a>
+  </h3>
+</div>
+
+
+<div align="center">
+  <sub><a href="#">Joe's</a> Ruby on Rails Specialisation Certification.
+  
+JHU 
+</div>
 
 ## Introduction
 
 
-### TABLE OF CONTENTS
+<h2>Table of Contents</h2>
+<details>
 - [Introduction to Ruby on Rails](#introduction-to-ruby-on-rails)
-  - [Installing Software](#installing-software)
-  - [Getting to know Ruby](#getting-to-know-ruby)
-  - [Core Concepts](#core-concepts)
 - [Rails with Active Record and Action Pack](#rails-with-active-record-and-action-pack)
-  - [Introduction to Active Record](#introduction-to-active-record)
-  - [Deep Dive into Active Record](#deep-dive-into-active-record)
-  - [Introduction to Action Pack](#introduction-to-action-pack)
-  - [Security and Nested Resources in Action Pack](#security-and-nested-resources-in-action-pack)
 - [Ruby on Rails Web Services and Integration with MongoDB](#ruby-on-rails-web-services-and-integration-with-mongodb)
-  - [Introduction to MongoDB, MongoDB-Ruby API, and CRUD](#introduction-to-mongodb-mongodb-ruby-api-and-crud)
-  - [Aggregation Framework, Performance, and Advanced MongoDB](#aggregation-framework-performance-and-advanced-mongodb)
-  - [Mongoid](#mongoid)
-  - [Web Services](#web-services)
 - [HTML, CSS, and Javascript for Web Developers](#html-css-and-javascript-for-web-developers)
-  - [Introduction to HTML5](#introduction-to-hmtl5)
-  - [Introduction to CSS3](#introduction-to-css3)
-  - [Coding the Static Restaurant Site](#coding-the-static-restaurant-site)
-  - [Introduction to Javascript](#introduction-to-javascript)
-  - [Using Javascript to Build Web Applications](#using-javascript-to-build-web-applications)
 - [Single Page Web Applications with AngularJS](#single-page-web-applications-with-angularjs)
-  - [Introduction to AngularJS](#introduction-to-angularjs)
-  - [Filters, Digest Cycle, Controller Inheritance, and Custom Services](#filters-digest-cycle-controller-inheritance-and-custom-services)
-  - [Promises, Ajax, and Custom Directives](#promises-ajax-and-custom-directives)
-  - [Components, Events, Modules, and Routing](#components-events-modules-and-routing)
-  - [Form Validation, Testing, and Restaurant Site Development](#form-validation-testing-and-restaurant-site-development)
 - [Capstone Project](#capstone-project)
 - [Certificates](#url)
-  - [Introduction to Ruby on Rails](#url)
-  - [Rails with Active Record and Action Pack](#url)
-  - [Ruby on Rails Web Services and Integration with MongoDB](#url)
-  - [HTML, CSS, and Javascript for Web Developers](#url)
-  - [Single Page Web Applications with AngularJS](#url)
-  - [Capstone Project](#url)
-  - [Specialization Certificate](#url)
+
+</details>
 
 
 
-
-#  Introduction to Ruby on Rails (COURSE 1)
-
-
-## Johns Hopkins University.  (*Whiting School of Engineering*)
+<div>
+  <h2>Introduction to Ruby on Rails</h2>
+</div>
 
 
-## Course Contents.
+<h3>Course Modules</h3>
+<details>
+
+### Course Contents.
 - [Introduction to Ruby on Rails](#introduction-to-ruby-on-rails)
   - [Installing Software](#installing-software)
   - [Getting to know Ruby](#getting-to-know-ruby)
   - [Core Concepts](#core-concepts)
 
-
-### WEEK 1
+## MODULE 1
 
 
 #### Installing Software
@@ -80,7 +91,7 @@ Git and Github
   * Local Git Repository.
   * Remote Repos and Github.
 
-### WEEK 2
+## MODULE 2
 
 #### Getting to know Ruby
 
@@ -115,7 +126,7 @@ Git and Github
   * RSpec Matchers.
   * Programming Assignment -Caculating Maximum Word Frequency.
 
-### WEEK 3
+## MODULE 3
 
 #### Core Concepts
 
@@ -145,25 +156,25 @@ Git and Github
   * Debugging Rails Applications.
   * Programming Assignments: Coding Assignment - Recipe Hunter.
 
+</details>
 
 CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
 
 
-#  Rails with Active Record and Action Pack (COURSE 2)
+<h2>Rails with Active Record and Action Pack</h2>
 
 
-## Johns Hopkins University.  (*Whiting School of Engineering*)
+<h3>Course Modules</h3>
+<details>
 
-
-## Course Contents.
+### Course Contents.
 - [Rails with Active Record and Action Pack](#rails-with-active-record-and-action-pack)
   - [Introduction to Active Record](#introduction-to-active-record)
   - [Deep Dive into Active Record](#deep-dive-into-active-record)
   - [Introduction to Action Pack](#introduction-to-action-pack)
   - [Security and Nested Resources in Action Pack](#security-and-nested-resources-in-action-pack)
 
-
-### WEEK 1
+## MODULE 1
 
 #### Introduction to Active Record
 
@@ -187,7 +198,7 @@ Introduction to Active Record
   * Active Record CRUD: Part 2
   * Active Record Queries
 
-### WEEK 2
+## MODULE 2
 
 #### Deep Dive into Active Record
 
@@ -215,7 +226,7 @@ Introduction to Active Record
   * N+1 Queries Issue and DB Transactions
   * Programming Assignment (Active Record Relationships)
 
-### WEEK 3
+## MODULE 3
 
 ###Introduction to Action Pack
 
@@ -241,7 +252,7 @@ Introduction to Active Record
   * Form Helpers and Layouts
   * Programming Assignment (Action Pack)
 
-### WEEK 4
+## MODULE 4
 
 #### Security and Nested Resources in Action Pack
 
@@ -266,26 +277,26 @@ Introduction to Active Record
   * Deploying to Heroku and Enabling SSL
   * Nested Resources, Security, and Pagination (Programming Assignment)
 
+</details>
 
  CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
 
 
 
-#  Ruby on Rails Web Services and Integration with MongoDB (COURSE 3)
+<h2>Ruby on Rails Web Services and Integration with MongoDB</h2>
 
 
-## Johns Hopkins University.  (*Whiting School of Engineering*)
+<h3>Course Modules</h3>
+<details>
 
-
-## Course Contents.
+### Course Contents.
 - [Ruby on Rails Web Services and Integration with MongoDB](#ruby-on-rails-web-services-and-integration-with-mongodb)
   - [Introduction to MongoDB, MongoDB-Ruby API, and CRUD](#introduction-to-mongodb-mongodb-ruby-api-and-crud)
   - [Aggregation Framework, Performance, and Advanced MongoDB](#aggregation-framework-performance-and-advanced-mongodb)
   - [Mongoid](#mongoid)
   - [Web Services](#web-services)
 
-
-### WEEK 1
+### MODULE 1
 
 #### Introduction to MongoDB, MongoDB-Ruby API, and CRUD
 
@@ -317,7 +328,7 @@ Integrating MongoDB and Rails
   * Heroku Setup.
   * Programming Assignment (Integrating MongoDB Ruby Driver and Rails).
 
-### WEEK 2
+### MODULE 2
 
 #### Aggregation Framework, Performance, and Advanced MongoDB
 
@@ -355,7 +366,7 @@ Integrating MongoDB and Rails
   * Unique, Sparse & TTL Indexes.
   * Programming Assignment: (Advanced MongoDB Ruby Driver Topics).
 
-### WEEK 3
+### MODULE 3
 
 ### Mongoid
 
@@ -387,7 +398,7 @@ Integrating MongoDB and Rails
   * Scaffolding.
   * Programming Assignment: (Mongoid and Rails Scaffold).
 
-### WEEK 4
+### MODULE 4
 
 #### Web Services
 
@@ -427,16 +438,18 @@ Integrating MongoDB and Rails
   * OAuth Integration. 
   * Programming Assignment: (Web Services)
 
+</details>
  CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
 
 
-#  HTML, CSS, and Javascript for Web Developers (COURSE 4)
+<h2>HTML, CSS, and Javascript for Web Developers</h2>
 
 
-## Johns Hopkins University.  (*Whiting School of Engineering*)
 
+<h3>Course Modules</h3>
+<details>
 
-## Course Contents.
+### Course Contents.
 - [HTML, CSS, and Javascript for Web Developers](#html-css-and-javascript-for-web-developers)
   - [Introduction to HTML5](#introduction-to-hmtl5)
   - [Introduction to CSS3](#introduction-to-css3)
@@ -444,8 +457,7 @@ Integrating MongoDB and Rails
   - [Introduction to Javascript](#introduction-to-javascript)
   - [Using Javascript to Build Web Applications](#using-javascript-to-build-web-applications)
 
-
-### WEEK 1
+### MODULE 1
 
 #### Introduction to HTML5
 
@@ -473,7 +485,7 @@ Integrating MongoDB and Rails
   * Displaying Images.
   * Quiz.
 
-### WEEK 2
+### MODULE 2
 
 #### Introduction to CSS3
 
@@ -523,7 +535,7 @@ Integrating MongoDB and Rails
   * The Bootstrap Grid System Part 2.
   * Coding Assignment.
 
-### WEEK 3
+### MODULE 3
 
 ###Coding the Static Restaurant Site
 
@@ -560,7 +572,7 @@ Integrating MongoDB and Rails
   * Testing the Mobile Version on a Real Phone.
   * Coding Assignment.
 
-### WEEK 4
+### MODULE 4
 
 #### Introduction to Javascript
 
@@ -604,7 +616,7 @@ Integrating MongoDB and Rails
   * Coding Assignment.
 
 
-### WEEK 5
+### MODULE 5
 
 #### Using Javascript to Build Web Applications
 
@@ -635,17 +647,17 @@ Integrating MongoDB and Rails
   * Changing 'active' Button Style Through Javascript.
   * Coding Assignment.
 
-
+</details>
 CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
 
 
 
-#  Single Page Web Applications with AngularJS (COURSE 5)
+<h2>Single Page Web Applications with AngularJS</h2>
 
 
-## Johns Hopkins University.  (*Whiting School of Engineering*)
+<h3>Course Modules</h3>
 
-
+<details>
 ## Course Contents.
 - [Single Page Web Applications with AngularJS](#single-page-web-applications with-angularjs)
   - [Introduction to AngularJS](#introduction-to-angularjs)
@@ -655,7 +667,7 @@ CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
   - [Form Validation, Testing, and Restaurant Site Development](#form-validation-testing-and-restaurant-site-development)
 
 
-### WEEK 1
+### MODULE 1
 
 #### Introduction to AngularJS
 
@@ -686,7 +698,7 @@ Dependency Injection, Interpolation
   * Expressions and Interpolation Part 2.
   * Coding Assignment.
 
-### WEEK 2
+### MODULE 2
 
 #### Filters, Digest Cycle, Controller Inheritance, and Custom Services
 
@@ -726,7 +738,7 @@ Dependency Injection, Interpolation
   * Quiz.
   * Coding Assignment.
 
-### WEEK 3
+### MODULE 3
 
 ### Promises, Ajax, and Custom Directives
 
@@ -759,7 +771,7 @@ Dependency Injection, Interpolation
   * Quiz.
   * Coding Assignment.
 
-### WEEK 4
+### MODULE 4
 
 #### Components, Events, Modules, and Routing
 
@@ -805,7 +817,7 @@ Dependency Injection, Interpolation
   * Coding Assignment.
 
 
-### WEEK 5
+### MODULE 5
 
 #### Form Validation, Testing, and Restaurant Site Development
 
@@ -861,7 +873,12 @@ Dependency Injection, Interpolation
   * Single Category View Part 2.
   * Single Category View Part 3.
   * Coding Assignment.
-
+</details>
 
 CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+
+<h2>Capstone Project</h2>
+
+
+
 
