@@ -1,46 +1,67 @@
 
 # Ruby on Rails Specialization 
 
+# Johns Hopkins University.  
+# [Whiting School of Engineering](https://ep.jhu.edu/programs-and-courses/coursera) via [Coursera](https://www.coursera.org/specializations/ruby-on-rails) 
 
-- [Introduction to Ruby on Rails](#Introduction to Ruby on Rails)
-  - [Installing Software](#Installing Software)
-  - [Getting to know Ruby](#Getting to know Ruby)
-  - [Core Concepts](#Core Concepts)
-- [Rails with Active Record and Action Pack](#Rails with Active Record and Action Pack)
-  - [Introduction to Active Record](#Introduction to Active Record)
-  - [Deep Dive into Active Record](#Deep Dive into Active Record)
-  - [Introduction to Action Pack](#Introduction to Action Pack)
-  - [Security and Nested Resources in Action Pack](#Security and Nested Resources in Action Pack)
-- [Ruby on Rails Web Services and Integration with MongoDB](#Ruby on Rails Web Services and Integration with MongoDB)
-  - [Introduction to MongoDB, MongoDB-Ruby API, and CRUD](#Introduction to MongoDB, MongoDB-Ruby API, and CRUD)
-  - [Aggregation Framework, Performance, and Advanced MongoDB](#Aggregation Framework, Performance, and Advanced MongoDB)
-  - [Mongoid](#Mongoid)
-  - [Web Services](#Web Services)
-- [HTML, CSS, and Javascript for Web Developers](#HTML, CSS, and Javascript for Web Developers)
-  - [Introduction to HTML5](#Introduction to HTML5)
-  - [Introduction to CSS3](#Introduction to CSS3)
-  - [Coding the Static Restaurant Site](#Coding the Static Restaurant Site)
-  - [Introduction to Javascript](#Introduction to Javascript)
-  - [Using Javascript to Build Web Applications](#Using Javascript to Build Web Applications)
-- [Single Page Web Applications with AngularJS](#Single Page Web Applications with AngularJS)
-  - [Introduction to AngularJS](#Introduction to AngularJS)
-  - [Filters, Digest Cycle, Controller Inheritance, and Custom Services](#Filters, Digest Cycle, Controller Inheritance, and Custom Services)
-  - [Promises, Ajax, and Custom Directives](#Promises, Ajax, and Custom Directives)
-  - [Components, Events, Modules, and Routing](#Components, Events, Modules, and Routing)
-  - [Form Validation, Testing, and Restaurant Site Development](#Form Validation, Testing, and Restaurant Site Development)
-- [Capstone Project](#Capstone Project)
-- [Certificates](#Certifications)
-  - [Introduction to Ruby on Rails]()
-  - [Rails with Active Record and Action Pack]()
-  - [Ruby on Rails Web Services and Integration with MongoDB]()
-  - [HTML, CSS, and Javascript for Web Developers]()
-  - [Single Page Web Applications with AngularJS]()
-  - [Capstone Project]()
-  - [Specialization Overal Certificate]()
+## Introduction
 
+
+### TABLE OF CONTENTS
+- [Introduction to Ruby on Rails](#introduction-to-ruby-on-rails)
+  - [Installing Software](#installing-software)
+  - [Getting to know Ruby](#getting-to-know-ruby)
+  - [Core Concepts](#core-concepts)
+- [Rails with Active Record and Action Pack](#rails-with-active-record-and-action-pack)
+  - [Introduction to Active Record](#introduction-to-active-record)
+  - [Deep Dive into Active Record](#deep-dive-into-active-record)
+  - [Introduction to Action Pack](#introduction-to-action-pack)
+  - [Security and Nested Resources in Action Pack](#security-and-nested-resources-in-action-pack)
+- [Ruby on Rails Web Services and Integration with MongoDB](#ruby-on-rails-web-services-and-integration-with-mongodb)
+  - [Introduction to MongoDB, MongoDB-Ruby API, and CRUD](#introduction-to-mongodb-mongodb-ruby-api-and-crud)
+  - [Aggregation Framework, Performance, and Advanced MongoDB](#aggregation-framework-performance-and-advanced-mongodb)
+  - [Mongoid](#mongoid)
+  - [Web Services](#web-services)
+- [HTML, CSS, and Javascript for Web Developers](#html-css-and-javascript-for-web-developers)
+  - [Introduction to HTML5](#introduction-to-hmtl5)
+  - [Introduction to CSS3](#introduction-to-css3)
+  - [Coding the Static Restaurant Site](#coding-the-static-restaurant-site)
+  - [Introduction to Javascript](#introduction-to-javascript)
+  - [Using Javascript to Build Web Applications](#using-javascript-to-build-web-applications)
+- [Single Page Web Applications with AngularJS](#single-page-web-applications-with-angularjs)
+  - [Introduction to AngularJS](#introduction-to-angularjs)
+  - [Filters, Digest Cycle, Controller Inheritance, and Custom Services](#filters-digest-cycle-controller-inheritance-and-custom-services)
+  - [Promises, Ajax, and Custom Directives](#promises-ajax-and-custom-directives)
+  - [Components, Events, Modules, and Routing](#components-events-modules-and-routing)
+  - [Form Validation, Testing, and Restaurant Site Development](#form-validation-testing-and-restaurant-site-development)
+- [Capstone Project](#capstone-project)
+- [Certificates](#url)
+  - [Introduction to Ruby on Rails](#url)
+  - [Rails with Active Record and Action Pack](#url)
+  - [Ruby on Rails Web Services and Integration with MongoDB](#url)
+  - [HTML, CSS, and Javascript for Web Developers](#url)
+  - [Single Page Web Applications with AngularJS](#url)
+  - [Capstone Project](#url)
+  - [Specialization Certificate](#url)
+
+
+
+
+#  Introduction to Ruby on Rails (COURSE 1)
+
+
+## Johns Hopkins University.  (*Whiting School of Engineering*)
+
+
+## Course Contents.
+- [Introduction to Ruby on Rails](#introduction-to-ruby-on-rails)
+  - [Installing Software](#installing-software)
+  - [Getting to know Ruby](#getting-to-know-ruby)
+  - [Core Concepts](#core-concepts)
 
 
 ### WEEK 1
+
 
 #### Installing Software
 
@@ -124,13 +145,22 @@ Git and Github
   * Debugging Rails Applications.
   * Programming Assignments: Coding Assignment - Recipe Hunter.
 
-#  Rails with Active Record and Action Pack
+
+CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+
+
+#  Rails with Active Record and Action Pack (COURSE 2)
 
 
 ## Johns Hopkins University.  (*Whiting School of Engineering*)
 
 
 ## Course Contents.
+- [Rails with Active Record and Action Pack](#rails-with-active-record-and-action-pack)
+  - [Introduction to Active Record](#introduction-to-active-record)
+  - [Deep Dive into Active Record](#deep-dive-into-active-record)
+  - [Introduction to Action Pack](#introduction-to-action-pack)
+  - [Security and Nested Resources in Action Pack](#security-and-nested-resources-in-action-pack)
 
 
 ### WEEK 1
@@ -236,13 +266,23 @@ Introduction to Active Record
   * Deploying to Heroku and Enabling SSL
   * Nested Resources, Security, and Pagination (Programming Assignment)
 
-#  Ruby on Rails Web Services and Integration with MongoDB
+
+ CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+
+
+
+#  Ruby on Rails Web Services and Integration with MongoDB (COURSE 3)
 
 
 ## Johns Hopkins University.  (*Whiting School of Engineering*)
 
 
 ## Course Contents.
+- [Ruby on Rails Web Services and Integration with MongoDB](#ruby-on-rails-web-services-and-integration-with-mongodb)
+  - [Introduction to MongoDB, MongoDB-Ruby API, and CRUD](#introduction-to-mongodb-mongodb-ruby-api-and-crud)
+  - [Aggregation Framework, Performance, and Advanced MongoDB](#aggregation-framework-performance-and-advanced-mongodb)
+  - [Mongoid](#mongoid)
+  - [Web Services](#web-services)
 
 
 ### WEEK 1
@@ -387,13 +427,22 @@ Integrating MongoDB and Rails
   * OAuth Integration. 
   * Programming Assignment: (Web Services)
 
-#  HTML, CSS, and Javascript for Web Developers
+ CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+
+
+#  HTML, CSS, and Javascript for Web Developers (COURSE 4)
 
 
 ## Johns Hopkins University.  (*Whiting School of Engineering*)
 
 
 ## Course Contents.
+- [HTML, CSS, and Javascript for Web Developers](#html-css-and-javascript-for-web-developers)
+  - [Introduction to HTML5](#introduction-to-hmtl5)
+  - [Introduction to CSS3](#introduction-to-css3)
+  - [Coding the Static Restaurant Site](#coding-the-static-restaurant-site)
+  - [Introduction to Javascript](#introduction-to-javascript)
+  - [Using Javascript to Build Web Applications](#using-javascript-to-build-web-applications)
 
 
 ### WEEK 1
@@ -586,13 +635,24 @@ Integrating MongoDB and Rails
   * Changing 'active' Button Style Through Javascript.
   * Coding Assignment.
 
-#  Single Page Web Applications with AngularJS
+
+CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+
+
+
+#  Single Page Web Applications with AngularJS (COURSE 5)
 
 
 ## Johns Hopkins University.  (*Whiting School of Engineering*)
 
 
 ## Course Contents.
+- [Single Page Web Applications with AngularJS](#single-page-web-applications with-angularjs)
+  - [Introduction to AngularJS](#introduction-to-angularjs)
+  - [Filters, Digest Cycle, Controller Inheritance, and Custom Services](#filters-digest-cycle-controller-inheritance-and-custom-services)
+  - [Promises, Ajax, and Custom Directives](#promises-ajax-and-custom-directives)
+  - [Components, Events, Modules, and Routing](#components-events-modules-and-routing)
+  - [Form Validation, Testing, and Restaurant Site Development](#form-validation-testing-and-restaurant-site-development)
 
 
 ### WEEK 1
@@ -801,4 +861,7 @@ Dependency Injection, Interpolation
   * Single Category View Part 2.
   * Single Category View Part 3.
   * Coding Assignment.
+
+
+CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
 
