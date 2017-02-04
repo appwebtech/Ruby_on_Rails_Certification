@@ -11,23 +11,23 @@
       Course 1
     </a>
     <span> | </span>
-      <a href="#">
+      <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/1_Introduction_to_Ruby_on_Rails">
         Course 2
       </a>
     <span> | </span>
-      <a href="#">
+      <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/2_Rails_with_Active_Record_and_Action_Pack">
         Course 3
       </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/3_Ruby_on_Rails_Web_Services_and_Integration_with_MongoDB">
       Course 4
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/4_HTML_CSS_%26_JS">
       Course 5
     </a>
   <span> | </span>
-    <a href="#">
+    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/5_AngularJS">
       Capstone Project
     </a>
   </h3>
@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <sub><a href="#">Joe's</a> Ruby on Rails Specialisation Certification.
+  <sub><a href="#">Joseph M Mwania's</a> Ruby on Rails Specialisation Certification Timeline.
   
 JHU 
 </div>
@@ -158,7 +158,7 @@ Git and Github
 
 </details>
 
-CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 <h2>Rails with Active Record and Action Pack</h2>
@@ -279,7 +279,7 @@ Introduction to Active Record
 
 </details>
 
- CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 
@@ -439,7 +439,7 @@ Integrating MongoDB and Rails
   * Programming Assignment: (Web Services)
 
 </details>
- CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 <h2>HTML, CSS, and Javascript for Web Developers</h2>
@@ -648,7 +648,7 @@ Integrating MongoDB and Rails
   * Coding Assignment.
 
 </details>
-CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 
@@ -875,7 +875,7 @@ Dependency Injection, Interpolation
   * Coding Assignment.
 </details>
 
-CHANGE LINK UPON PUSHING [*Back to top*](https://github.com/sembo12/potas)
+[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 <h2>Capstone Project</h2>
 
