@@ -7,27 +7,27 @@
 </div>
 <div align="center">
   <h3>
-    <a href="https://yoshuawuyts.gitbooks.io/choo/content">
+    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/1_Introduction_to_Ruby_on_Rails">
       Course 1
     </a>
     <span> | </span>
-      <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/1_Introduction_to_Ruby_on_Rails">
+      <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/2_Rails_with_Active_Record_and_Action_Pack">
         Course 2
       </a>
     <span> | </span>
-      <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/2_Rails_with_Active_Record_and_Action_Pack">
+      <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/3_Ruby_on_Rails_Web_Services_and_Integration_with_MongoDB">
         Course 3
       </a>
     <span> | </span>
-    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/3_Ruby_on_Rails_Web_Services_and_Integration_with_MongoDB">
+    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/4_HTML_CSS_%26_JS">
       Course 4
     </a>
     <span> | </span>
-    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/4_HTML_CSS_%26_JS">
+    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/5_AngularJS">
       Course 5
     </a>
   <span> | </span>
-    <a href="https://github.com/appwebtech/Ruby_on_Rails_Certification/tree/master/5_AngularJS">
+    <a href="#">
       Capstone Project
     </a>
   </h3>
