@@ -159,7 +159,6 @@ Git and Github
 
 </details>
 
-[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 <h2>Rails with Active Record and Action Pack</h2>
@@ -280,7 +279,6 @@ Introduction to Active Record
 
 </details>
 
-[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 
@@ -440,7 +438,6 @@ Integrating MongoDB and Rails
   * Programming Assignment: (Web Services)
 
 </details>
-[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 <h2>HTML, CSS, and Javascript for Web Developers</h2>
@@ -649,7 +646,6 @@ Integrating MongoDB and Rails
   * Coding Assignment.
 
 </details>
-[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 
 
@@ -876,7 +872,6 @@ Dependency Injection, Interpolation
   * Coding Assignment.
 </details>
 
-[*Back to top*](https://github.com/appwebtech/Ruby_on_Rails_Certification)
 
 <h2>Capstone Project</h2>
 
