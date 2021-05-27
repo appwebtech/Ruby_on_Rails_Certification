@@ -45,13 +45,14 @@ JHU
 
 <h2>Table of Contents</h2>
 <details>
+
+### Table of Contents
 - [Introduction to Ruby on Rails](#introduction-to-ruby-on-rails)
 - [Rails with Active Record and Action Pack](#rails-with-active-record-and-action-pack)
 - [Ruby on Rails Web Services and Integration with MongoDB](#ruby-on-rails-web-services-and-integration-with-mongodb)
 - [HTML, CSS, and Javascript for Web Developers](#html-css-and-javascript-for-web-developers)
 - [Single Page Web Applications with AngularJS](#single-page-web-applications-with-angularjs)
 - [Capstone Project](#capstone-project)
-- [Certificates](#url)
 
 </details>
 
