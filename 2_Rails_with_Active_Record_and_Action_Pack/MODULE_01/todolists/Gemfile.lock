@@ -89,7 +89,7 @@ GEM
     mini_portile2 (2.8.1)
     minitest (5.8.3)
     multi_json (1.11.2)
-    nokogiri (1.13.10)
+    nokogiri (1.14.3)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     phantomjs (1.9.8.0)
